@@ -1,0 +1,8 @@
+# Ignore AoC input files
+[Ii]nput.txt
+
+# IDEs related directories
+.idea/
+
+# macOS Finder metadata files
+.DS_Store
